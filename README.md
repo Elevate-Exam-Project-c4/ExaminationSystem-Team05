@@ -106,3 +106,6 @@ This index is for navigation only; it does not replace the requirements.
   Navigation, Review and Submit responsibilities.
 - The periodic recovery mechanism is optional as stated in V4.4.
 - Keep your own Git history; the supplied source history has been removed.
+
+
+<!-- GitHub connector write-access verification -->
